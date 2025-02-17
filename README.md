@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Java-23-red)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.2-green)
-![Swagger]([https://img.shields.io/badge/Swagger-3.0-yellow](https://img.shields.io/badge/Swagger-2.8.4-yellow))
+![Swagger](https://img.shields.io/badge/Swagger-2.8.4-yellow)
 ![Docker](https://img.shields.io/badge/Docker-✓-blue)
 
 A **Transaction API** é uma aplicação Spring Boot e foi feita como resolução do desafio para vaga de Desenvolvedor Júnior do Itaú.
